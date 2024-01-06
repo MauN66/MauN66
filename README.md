@@ -8,4 +8,4 @@
 MauN66/MauN66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hola, me gustaria que me ayudaran a consegui un perfil en lens Protocol, como podria conseguirlo?
+
